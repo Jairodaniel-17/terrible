@@ -1,4 +1,3 @@
-json
 nltk
 streamlit
 SpeechRecognition
