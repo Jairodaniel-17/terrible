@@ -1,0 +1,6 @@
+json
+nltk
+streamlit
+SpeechRecognition
+pytube
+moviepy
